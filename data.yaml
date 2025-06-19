@@ -1,0 +1,7 @@
+train: C:\Users\LSX\Desktop\yolov5-7.0\data\solar panels\train\images
+val: C:\Users\LSX\Desktop\yolov5-7.0\data\solar panels\valid\images
+test: C:\Users\LSX\Desktop\yolov5-7.0\data\solar panels\test\images
+
+nc: 6
+names: ['bird_drop', 'clean', 'dirty','Electrical Damage','Physical Damage','Snow Coverage']
+
